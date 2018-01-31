@@ -35,4 +35,4 @@ mining=true
 mining=true
 
 [Miner12]
-mining=false
+mining=true
