@@ -19,11 +19,6 @@ mining=true
 [Miner06]
 mining=true
 
-
-[Miner06]
-mining=true
-
-
 [Miner07]
 mining=true
 
